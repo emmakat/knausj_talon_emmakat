@@ -25,10 +25,10 @@ cache show: browser.show_clear_cache()
 dev tools [show]: browser.toggle_dev_tools()
 
 # Legacy [verb noun] commands to be removed at a later time
-show downloads: browser.show_downloads()
-show extensions: browser.show_extensions()
-show history: browser.show_history()
-show cache: browser.show_clear_cache()
+#show downloads: browser.show_downloads()
+#show extensions: browser.show_extensions()
+#show history: browser.show_history()
+#show cache: browser.show_clear_cache()
 
 #todo - port to apps
 # navigating current page
